@@ -11,6 +11,7 @@ This repository contains a few deep learning projects.
 
 ## 2. Deep Neural Network with TensorFlow
 |#|Title|Description|Ipython Notebook|PDF|
+|-|-----|----------|--------|---------|
 |2.0|Deep Neural Network with TensorFlow|Build and train a standard multi-layer deep neural network from scratch using TensorFlow|[Ipython Notebook](https://github.com/boyhhy88/deep-learning/blob/master/2.%20Deep%20Neural%20Network%20with%20TensorFlow/Ipython%20Notebook/Deep%20Neural%20Network%20with%20TensorFlow.ipynb)|[PDF](https://github.com/boyhhy88/deep-learning/blob/master/2.%20Deep%20Neural%20Network%20with%20TensorFlow/Ipython%20Notebook%20in%20PDF/Deep%20Neural%20Network%20with%20TensorFlow.pdf)|
 
 
